@@ -27,7 +27,7 @@ public class ChallengeQuestionSept02 {
 		public static void main(String[] args) {
 			 String str = "ron|wewdl";  
 				int len = str.length();  
-				System.out.println("All the permutations of the string are: ");  
+				System.out.println("All the messages are: ");  
 				permute(str, 0, len, str.indexOf('|')); 
 
 		}
