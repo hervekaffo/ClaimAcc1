@@ -32,7 +32,7 @@ Student student = (Student) session.getAttribute("student");
 	</nav>
 
 	<!-- Main jumbotron for a primary marketing message or call to action -->
-	<div class="jumbotron">
+	<div class="jumbotron" style="margin-top:50px;">
 		<div class="container">
 			<h1>
 				Hello,
